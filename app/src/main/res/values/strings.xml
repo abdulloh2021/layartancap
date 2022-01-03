@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bioskop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+    <string name="home_tab">Home</string>
+    <string name="horror_tab">Horror</string>
+    <string name="adventure_tab">Adventure</string>
+    <string name="scifi_tab">Sci-Fi</string>
+    <string name="company_name">Layar Tancap Pasar Kliwon</string>
+    <string name="restaurant_image">Restaurant image</string>
+    <string name="home_text">Sejak pertama kali dibuka pada tahun 1721,
+        layar tancap Pasar Kliwon tidak pernah menayangkan film
+        di hari Pahing. Kami percaya bahwa bioskop yang berkualitas
+        tidak menayangkan film di hari kiamat.</string>
+    <string name="order_name_hint">Masukkan judul film</string>
+    <string name="order_details_hint">Masukkan tanggal</string>
+</resources>
